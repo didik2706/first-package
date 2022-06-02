@@ -1,0 +1,19 @@
+{
+  "name": "@didik27/first-package",
+  "version": "1.0.0",
+  "description": "first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "didik27",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/didik2706/first-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/didik2706/first-package/issues"
+  },
+  "homepage": "https://github.com/didik2706/first-package#readme"
+}
